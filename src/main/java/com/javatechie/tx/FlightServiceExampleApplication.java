@@ -8,6 +8,7 @@ public class FlightServiceExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FlightServiceExampleApplication.class, args);
+		System.out.println("checking second work for git");
 	}
 
 }
